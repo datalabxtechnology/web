@@ -117,7 +117,7 @@ nav {
 }
 
 nav {
-  position: sticky;
+  position: fixed;   /* changed from sticky to fixed */
   top: 0;
   z-index: 1000;
 

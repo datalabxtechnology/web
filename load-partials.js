@@ -4,5 +4,5 @@ async function loadPartial(id, file) {
   document.getElementById(id).innerHTML = content;
 }
 
-loadPartial("header", "partials/header.html");
+loadPartial("navigation", "partials/navigation.html");
 loadPartial("footer", "partials/footer.html");

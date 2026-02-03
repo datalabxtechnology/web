@@ -286,6 +286,12 @@ section h2 {
   font-size: 0.95rem;
 }
 
+.card ul {
+  list-style: disc;   /* keeps bullets */
+  padding-left: 1em;  /* matches your paragraph text */
+  margin: 0;          /* remove extra space above/below list */
+}
+
 /* ===============================
    TRUST SECTION
    =============================== */
